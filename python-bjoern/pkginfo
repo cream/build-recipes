@@ -7,7 +7,7 @@
     "url": "https://github.com/jonashaag/bjoern",
     "license": "2-clause BSD",
     "source": "http://packages.cream-project.org/source/$pkgname-$pkgver.tar.bz2",
-    "checksum": "210cbab5f7b66497b42efa37e89b9d5b",
+    "checksum": "e0c0a64d9829fb91dcf8612a7013682c",
     "author": "Jonas Haag",
     "author_email": "jonas@lophus.org"
 }
