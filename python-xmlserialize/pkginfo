@@ -1,0 +1,13 @@
+{
+    "name": "python-xmlserialize",
+    "version": "1.0",
+    "release": "1",
+    "description": "An extensible Python-(to|from)-xml-(un)serializer in beautiful pure-Python code.",
+    "short_description": "An extensible Python-(to|from)-xml-(un)serializer",
+    "url": "https://github.com/jonashaag/xmlserialize.py",
+    "license": "2-clause BSD",
+    "source": "http://packages.cream-project.org/source/$pkgname-$pkgver.tar.bz2",
+    "checksum": "f9f065e80e23d61e7780658190956906",
+    "author": "Jonas Haag",
+    "author_email": "jonas@lophus.org"
+}

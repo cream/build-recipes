@@ -1,0 +1,3 @@
+{% extends "control.tmpl" %}
+
+{% block depends %}python-gobject, python-gtk2, python-cairo, python-lxml, python-xmlserialize, python-gpyconf, librsvg2-2, python-dbus, python-ooxcb{% endblock %}

@@ -1,0 +1,3 @@
+{% extends "control.tmpl" %}
+
+{% block depends %}python-cream, python-gpyconf, python-bjoern, python-javascriptcore, python-gobject, python-webkit, python-gtk2{% endblock %}

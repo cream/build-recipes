@@ -1,0 +1,13 @@
+{
+    "name": "cream-pim",
+    "version": "0.4",
+    "release": "2",
+    "description": "A Personal Information Manager.",
+    "short_description": "A Personal Information Manager.",
+    "url": "https://github.com/cream/pim-service",
+    "license": "GPL",
+    "source": "http://packages.cream-project.org/source/$pkgname-$pkgver.tar.bz2",
+    "checksum": "c7ff22f2edebd6458cb256392c4f8e43",
+    "author": "The Cream Project",
+    "author_email": "cream@cream-project.org"
+}

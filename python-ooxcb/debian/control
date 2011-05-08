@@ -1,0 +1,3 @@
+{% extends "control.tmpl" %}
+
+{% block depends %}libxcb1{% endblock %}

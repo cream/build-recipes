@@ -1,0 +1,13 @@
+{
+    "name": "python-cream",
+    "version": "0.4.2",
+    "release": "1",
+    "description": "Python libraries for the Cream Desktop. ",
+    "short_description": "Python libraries for the Cream Desktop. ",
+    "url": "https://github.com/cream/libs",
+    "license": "LGPL",
+    "source": "http://packages.cream-project.org/source/$pkgname-$pkgver.tar.bz2",
+    "checksum": "47b65a5cb527c6d5cb8b11755318f218",
+    "author": "The Cream Project",
+    "author_email": "cream@cream-project.org"
+}

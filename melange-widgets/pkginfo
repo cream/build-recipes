@@ -1,0 +1,10 @@
+{
+    "name": "melange-widgets",
+    "version": "0.4.8",
+    "release": "1",
+    "description": "Widgets for Melange",
+    "url": "https://github.com/cream/melange-widgets",
+    "license": "GPL",
+    "source": "http://packages.cream-project.org/source/$pkgname-$pkgver.tar.bz2",
+    "checksum": "14024425ad2b25a84f82d93de0164499"
+}

@@ -1,0 +1,3 @@
+{% extends "PKGBUILD.tmpl" %}
+
+{% block depends %}python2 pygtk python-cream gstreamer0.10-python{% endblock %}

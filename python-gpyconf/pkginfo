@@ -1,0 +1,10 @@
+{
+    "name": "python-gpyconf",
+    "version": "0.2beta",
+    "release": "1",
+    "description": "A modular Python configuration framework with support for multiple backends (ConfigParser, XML, JSON, ...) and multiple frontends (GTK+, Web, ...).",
+    "url": "http://gpyconf.lophus.org/",
+    "license": "2-clause-BSD",
+    "source": "http://packages.cream-project.org/source/$pkgname-$pkgver.tar.bz2",
+    "checksum": "886619e92fc87424249cd6bcc31863d5"
+}

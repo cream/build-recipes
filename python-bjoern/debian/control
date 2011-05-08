@@ -1,0 +1,5 @@
+{% extends "control.tmpl" %}
+
+{% block architecture %}any{% endblock %}
+{% block depends %}libev-dev{% endblock %}
+{% block build_deps %}{{ super() }} python-dev, libev-dev{% endblock %}
