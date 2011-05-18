@@ -1,10 +1,10 @@
 {
     "name": "cream-hotkey-manager",
-    "version": "0.0.5",
+    "version": "0.1.1",
     "release": "1",
     "description": "A module managing global hotkeys...",
     "url": "https://github.com/cream/hotkey-manager",
     "license": "GPL",
     "source": "http://packages.cream-project.org/source/$pkgname-$pkgver.tar.bz2",
-    "checksum": "a7da71d344d3d9ebb3ee370370dddd3d"
+    "checksum": "483075cb24aecc5dc0d4b4cd92e85dd5"
 }
