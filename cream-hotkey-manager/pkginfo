@@ -6,5 +6,5 @@
     "url": "https://github.com/cream/hotkey-manager",
     "license": "GPL",
     "source": "http://packages.cream-project.org/source/$pkgname-$pkgver.tar.bz2",
-    "checksum": "483075cb24aecc5dc0d4b4cd92e85dd5"
+    "checksum": "7b9306538845ac85ff244408c8dfba78"
 }
