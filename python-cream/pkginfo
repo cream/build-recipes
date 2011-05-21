@@ -4,7 +4,7 @@
     "release": "2",
     "description": "Python libraries for the Cream Desktop. ",
     "short_description": "Python libraries for the Cream Desktop. ",
-    "url": "https://github.com/cream/libs",
+    "url": "https://github.com/cream/python-cream",
     "license": "LGPL",
     "source": "http://packages.cream-project.org/source/$pkgname-$pkgver.tar.bz2",
     "checksum": "8e821ace528cdfa4eb38cbad51d57bb2",
